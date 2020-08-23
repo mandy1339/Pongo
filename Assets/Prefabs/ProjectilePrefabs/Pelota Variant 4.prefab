@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3102103360412383251
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1116054156956898640, guid: b17da0c87f2b69b45a1162fd1ff88eec,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 77fee883de375264dab979e049a56d74,
+        type: 3}
+    - target: {fileID: 1116054156956898643, guid: b17da0c87f2b69b45a1162fd1ff88eec,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.045669783
+      objectReference: {fileID: 0}
+    - target: {fileID: 1116054156956898643, guid: b17da0c87f2b69b45a1162fd1ff88eec,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.4208817
+      objectReference: {fileID: 0}
+    - target: {fileID: 1116054156956898643, guid: b17da0c87f2b69b45a1162fd1ff88eec,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.9867535
+      objectReference: {fileID: 0}
+    - target: {fileID: 1116054156956898643, guid: b17da0c87f2b69b45a1162fd1ff88eec,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1116054156956898643, guid: b17da0c87f2b69b45a1162fd1ff88eec,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1116054156956898643, guid: b17da0c87f2b69b45a1162fd1ff88eec,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1116054156956898643, guid: b17da0c87f2b69b45a1162fd1ff88eec,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1116054156956898643, guid: b17da0c87f2b69b45a1162fd1ff88eec,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1116054156956898643, guid: b17da0c87f2b69b45a1162fd1ff88eec,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1116054156956898643, guid: b17da0c87f2b69b45a1162fd1ff88eec,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1116054156956898643, guid: b17da0c87f2b69b45a1162fd1ff88eec,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1116054156956898655, guid: b17da0c87f2b69b45a1162fd1ff88eec,
+        type: 3}
+      propertyPath: m_Name
+      value: Pelota Variant 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1852856343128260256, guid: b17da0c87f2b69b45a1162fd1ff88eec,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b17da0c87f2b69b45a1162fd1ff88eec, type: 3}

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pelota_tag
+  - left_boundary_tag
+  - right_boundary_tag
+  - game_manager_tag
+  - level_button_tag
+  - main_menu_music_tag
+  - paleta_tag
+  - play_ui_tag
+  - mission_complete_ui_tag
+  - fireworks_tag
+  - sound_manager_tag
+  - top_boundary_tag
+  - mission_ui_tag
+  - buy_ui_tag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
