@@ -28,14 +28,14 @@ public static class InventoryManager
         // Configuration of all inventory items
         _fullInventory.Add("Ball01", 0);
         _fullInventory.Add("Ball02", 0);
-        _fullInventory.Add("Ball03", 15);
-        _fullInventory.Add("Ball04", 18);
-        _fullInventory.Add("Football01", 30);
-        _fullInventory.Add("Triangle01", 25);
-        _fullInventory.Add("Triangle02", 28);
-        _fullInventory.Add("Triangle03", 35);
-        _fullInventory.Add("Arrow", 40);
-        _fullInventory.Add("Rocket", 75);
+        _fullInventory.Add("Ball03", 5);
+        _fullInventory.Add("Ball04", 8);
+        _fullInventory.Add("Football01", 15);
+        _fullInventory.Add("Triangle01", 15);
+        _fullInventory.Add("Triangle02", 15);
+        _fullInventory.Add("Triangle03", 15);
+        _fullInventory.Add("Arrow", 20);
+        _fullInventory.Add("Rocket", 40);
     }
 
     private static HashSet<string> GetInventorySetFromRaw(string rawInventory)

@@ -35,12 +35,12 @@ public class Paleta : MonoBehaviour
                     // move left slowly
                     //transform.Translate(Vector2.left * Time.fixedDeltaTime * -_tiltValue * speedRange / 11);
                     // 5.6 for speed range of 6    4.6 for speed range of 5
-                    transform.Translate(Vector2.left * Time.fixedDeltaTime * (Mathf.Log10(-_tiltValue + 1) * 4.6f));  // if you change speedrange you should change 4.6
+                    transform.Translate(Vector2.left * Time.fixedDeltaTime * (Mathf.Log10(-_tiltValue + 1) * 5f));  // if you change speedrange you should change 4.6
                 }
                 else if (_tiltValue < 11)
                 {
                     // move left at max speed allowed
-                    transform.Translate(Vector2.left * Time.fixedDeltaTime * 4.79f);    //log(11) * 4.6 = 4.79
+                    transform.Translate(Vector2.left * Time.fixedDeltaTime * 5.207f);    //log(11) * 4.6 = 4.79
                 }
                 else
                 {

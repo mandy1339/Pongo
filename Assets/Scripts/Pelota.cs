@@ -111,18 +111,18 @@ public class Pelota : MonoBehaviour
         // if the ball is stuck at the top bring it down
         if(collision.collider.CompareTag("top_boundary_tag") && Mathf.Abs(rb.velocity.y) <= 0.06f)
         {
-            rb.velocity = (Vector3)rb.velocity + (Vector3.down * 0.35f);
+            rb.velocity = (Vector3)rb.velocity + (Vector3.down * 0.41f);
         }
         
         // if the ball is stuck on the right side bounce it back
         if(collision.collider.CompareTag("right_boundary_tag") && Mathf.Abs(rb.velocity.x) <= 0.06f ) {
-            rb.velocity = (Vector3)rb.velocity + (Vector3.left * 0.35f);
+            rb.velocity = (Vector3)rb.velocity + (Vector3.left * 0.41f);
         }
         
         // if the ball is stuck on the left side bounce it back
         if (collision.collider.CompareTag("left_boundary_tag") && Mathf.Abs(rb.velocity.x) <= 0.06f)
         {
-            rb.velocity = (Vector3)rb.velocity + (Vector3.right * 0.35f);
+            rb.velocity = (Vector3)rb.velocity + (Vector3.right * 0.41f);
         }
     }
 

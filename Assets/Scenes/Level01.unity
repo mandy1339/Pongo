@@ -112881,7 +112881,7 @@ PrefabInstance:
     - target: {fileID: 2836191597041440710, guid: ff6fd01128ec2f847a94c0d811c92ed9,
         type: 3}
       propertyPath: m_Name
-      value: Paleta
+      value: Paleta Curved Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff6fd01128ec2f847a94c0d811c92ed9, type: 3}

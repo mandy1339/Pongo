@@ -28,10 +28,10 @@ public static class Mission
                 missionItems.Add("IceBlock", 0);
                 return missionItems;
             case "Level06":
-                missionItems.Add("IceBlock", 0);
+                missionItems.Add("BlueBlock", 0);
                 return missionItems;
             case "Level07":
-                missionItems.Add("RedBlock", 0);
+                missionItems.Add("RedBlock", 1);
                 return missionItems;
             case "Level08":
                 missionItems.Add("IceBlock", 0);
